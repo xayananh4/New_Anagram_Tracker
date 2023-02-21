@@ -15,10 +15,11 @@ namespace AnagramTracker
       suggestedPromp();
 
 
-      static void suggestedPromp()
+      void suggestedPromp()
       {
         Console.WriteLine("Please enter in a suggested word:");
         string suggestedWord = Console.ReadLine();
+        Console.WriteLine(suggestedWord);
         bool result = ana.CheckAnagram(suggestedWord);
 
         if (result == true)

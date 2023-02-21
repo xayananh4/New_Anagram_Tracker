@@ -1,0 +1,15 @@
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.csproj.AssemblyReference.cache
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.GeneratedMSBuildEditorConfig.editorconfig
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.AssemblyInfoInputs.cache
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.AssemblyInfo.cs
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.csproj.CoreCompileInputs.cache
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/AnagramTracker
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/AnagramTracker.deps.json
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/AnagramTracker.runtimeconfig.json
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/AnagramTracker.dll
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/ref/AnagramTracker.dll
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/bin/Debug/net6.0/AnagramTracker.pdb
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.dll
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/ref/AnagramTracker.dll
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.pdb
+/root/epicodus/cSharp/New_Anagram_Tracker/AnagramTracker/obj/Debug/net6.0/AnagramTracker.genruntimeconfig.cache
