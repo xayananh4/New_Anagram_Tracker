@@ -1,3 +1,5 @@
+using System;
+
 namespace AnagramTracker.Models
 {
   public class Anagram
@@ -18,7 +20,14 @@ namespace AnagramTracker.Models
     // }
     public bool CheckAnagram(string suggestedWords)
     {
-      if (_targetWord.Sort() == suggestedWords.Sort())
+      char[] charFromTarget = _targetWord.ToCharArray();
+      Array.Sort(charFromTarget);
+      char[] charFromSuggested = suggestedWords.ToCharArray();
+      Array.Sort(charFromSuggested);
+      Console.WriteLine(charFromTarget);
+      Console.WriteLine(charFromSuggested);
+
+      if (charFromTarget.ToString() == charFromSuggested.ToString())
       {
         return true;
       }
