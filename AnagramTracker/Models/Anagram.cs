@@ -10,6 +10,7 @@ namespace AnagramTracker.Models
     {
       _targetWord = targetWord;
     }
+
     public string GetTargetWord()
     {
       return _targetWord;
@@ -24,10 +25,12 @@ namespace AnagramTracker.Models
       Array.Sort(charFromTarget);
       char[] charFromSuggested = suggestedWords.ToCharArray();
       Array.Sort(charFromSuggested);
+      string strFromTargetChar = new string(charFromTarget);
+      string strFromSuggestedChar = new string(charFromSuggested);
       Console.WriteLine(charFromTarget);
       Console.WriteLine(charFromSuggested);
 
-      if (charFromTarget.ToString() == charFromSuggested.ToString())
+      if (strFromTargetChar == strFromSuggestedChar)
       {
         return true;
       }
